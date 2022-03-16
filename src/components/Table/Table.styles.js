@@ -32,7 +32,7 @@ export const TableHead = styled.div`
   flex-direction: row;
   align-items: center;
   grid-column: 2;
-  @media (max-width: ${(props) => props.theme.mobile.tableMinimizeMaxWidth}) {    
+  @media (max-width: ${(props) => props.theme.mobile.tableMinimizeMaxWidth}) {
     height: 4.5rem;
   }
 `;
@@ -44,7 +44,6 @@ export const TimeDisplay = styled.div`
   @media (max-width: ${(props) => props.theme.mobile.tableMinimizeMaxWidth}) {
     transform: rotate(-90deg);
   }
-
 `;
 export const DateContainer = styled.div`
   ${'' /* display: flex; */}
@@ -57,7 +56,6 @@ export const DateContainer = styled.div`
     left: -550px;
     top: 0px;
     z-index: 1;
-
   }
 `;
 export const DateDisplay = styled.div`
@@ -72,7 +70,6 @@ export const DateDisplay = styled.div`
   justify-content: center;
   align-items: center;
   @media (max-width: ${(props) => props.theme.mobile.tableMinimizeMaxWidth}) {
-
     width: ${(props) => props.theme.table.dateContainerWidth};
     font-size: 0.8rem;
     line-height: 1;
@@ -103,4 +100,3 @@ export const HeatMapDataEntry = styled.td`
   width: 40px;
 `;
 export const SelectedPostContainer = styled.div``;
-
