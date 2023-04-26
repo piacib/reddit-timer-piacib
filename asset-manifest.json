@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reddit-timer-piacib/static/css/main.a51d16d5.chunk.css",
-    "main.js": "/reddit-timer-piacib/static/js/main.6657d6dd.chunk.js",
-    "main.js.map": "/reddit-timer-piacib/static/js/main.6657d6dd.chunk.js.map",
+    "main.js": "/reddit-timer-piacib/static/js/main.284492c9.chunk.js",
+    "main.js.map": "/reddit-timer-piacib/static/js/main.284492c9.chunk.js.map",
     "runtime-main.js": "/reddit-timer-piacib/static/js/runtime-main.0b83ccac.js",
     "runtime-main.js.map": "/reddit-timer-piacib/static/js/runtime-main.0b83ccac.js.map",
-    "static/js/2.cdf83179.chunk.js": "/reddit-timer-piacib/static/js/2.cdf83179.chunk.js",
-    "static/js/2.cdf83179.chunk.js.map": "/reddit-timer-piacib/static/js/2.cdf83179.chunk.js.map",
+    "static/js/2.7575657e.chunk.js": "/reddit-timer-piacib/static/js/2.7575657e.chunk.js",
+    "static/js/2.7575657e.chunk.js.map": "/reddit-timer-piacib/static/js/2.7575657e.chunk.js.map",
     "index.html": "/reddit-timer-piacib/index.html",
     "static/css/main.a51d16d5.chunk.css.map": "/reddit-timer-piacib/static/css/main.a51d16d5.chunk.css.map",
-    "static/js/2.cdf83179.chunk.js.LICENSE.txt": "/reddit-timer-piacib/static/js/2.cdf83179.chunk.js.LICENSE.txt",
+    "static/js/2.7575657e.chunk.js.LICENSE.txt": "/reddit-timer-piacib/static/js/2.7575657e.chunk.js.LICENSE.txt",
     "static/media/loading.003c3e02.svg": "/reddit-timer-piacib/static/media/loading.003c3e02.svg",
     "static/media/logo.47ec2a15.svg": "/reddit-timer-piacib/static/media/logo.47ec2a15.svg",
     "static/media/sign.0646f198.svg": "/reddit-timer-piacib/static/media/sign.0646f198.svg",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0b83ccac.js",
-    "static/js/2.cdf83179.chunk.js",
+    "static/js/2.7575657e.chunk.js",
     "static/css/main.a51d16d5.chunk.css",
-    "static/js/main.6657d6dd.chunk.js"
+    "static/js/main.284492c9.chunk.js"
   ]
 }
