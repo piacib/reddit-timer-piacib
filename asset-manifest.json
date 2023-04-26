@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reddit-timer-piacib/static/css/main.a51d16d5.chunk.css",
-    "main.js": "/reddit-timer-piacib/static/js/main.19dad06c.chunk.js",
-    "main.js.map": "/reddit-timer-piacib/static/js/main.19dad06c.chunk.js.map",
+    "main.js": "/reddit-timer-piacib/static/js/main.f06de2ad.chunk.js",
+    "main.js.map": "/reddit-timer-piacib/static/js/main.f06de2ad.chunk.js.map",
     "runtime-main.js": "/reddit-timer-piacib/static/js/runtime-main.0b83ccac.js",
     "runtime-main.js.map": "/reddit-timer-piacib/static/js/runtime-main.0b83ccac.js.map",
     "static/js/2.7575657e.chunk.js": "/reddit-timer-piacib/static/js/2.7575657e.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.0b83ccac.js",
     "static/js/2.7575657e.chunk.js",
     "static/css/main.a51d16d5.chunk.css",
-    "static/js/main.19dad06c.chunk.js"
+    "static/js/main.f06de2ad.chunk.js"
   ]
 }
